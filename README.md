@@ -12,6 +12,10 @@ In this project, we aim to analyze customer behavior in the telecommunications i
 
 ## Data Description
 
+The dataset used for this analysis is too large to be hosted directly in this repository. You can download the dataset from the following Google Drive link:
+
+(**Dataset Download Link**)[https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view?usp=sharing]
+
 The dataset consists of customer-level data for four months, represented as months 6 (June), 7 (July), 8 (August), and 9 (September). The first two months represent the “good” phase where customers are likely satisfied. The third month represents the “action” phase, where customer behavior may indicate dissatisfaction. The fourth month represents the “churn” phase, where the dataset identifies customers who have stopped using the service.
 
 The key variables include:
